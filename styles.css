@@ -1,0 +1,726 @@
+::-webkit-scrollbar{width:2px;height:2px;}
+::-webkit-scrollbar-button{width:2px;height:2px;}
+
+
+
+#pageHead{
+    width: 100%;
+    height: 350px;
+    min-width: 100%;
+    background-image: url("https://www.verywellhealth.com/thmb/MuMOZufizGGw7-zpsgav9lzZuwc=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1049207186-a38cc1fcd53845b9b71c8aae5a1a577f.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; 
+}
+#importantdiv{
+    position: relative;
+    min-height: 1191px;
+    width: 49%;
+    left: 26%;
+    background-image: url("https://paintingvalley.com/drawings/human-body-outline-drawing-6.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%; 
+    top: -106px;
+}
+#position-Div{
+    position: relative;
+    top: -744px;
+}
+#recommended{
+    position: sticky;
+    top: 413px;
+    left: -2%;
+    text-align: center;
+    transform: rotate(90deg);
+    transform-origin: right top;
+}
+#section-size{
+    height: 498px;
+}
+.center {
+    display: block;
+    margin: 0 auto;
+    height: 800px;
+}
+#headerAllVideos{
+    position: sticky;
+    top: 458px;
+    left: -2%;
+    text-align: center;
+    transform: rotate(90deg);
+    transform-origin: right top;
+}
+#image{
+    position: relative;
+    padding-left: 27%;
+}
+#page-header{
+    position: relative;
+    padding-top: 10%;
+    text-align: center;
+}
+div{
+  box-sizing:border-box;
+}
+.horizontal-scroll-wrapper{
+    position: relative;
+    display: block;
+    top: 9px;
+    left: 1%;
+    width: 430px;
+    min-height: 1167px;
+    max-height: 1168px;
+    margin: 0;
+    background: grey;
+    overflow-y: auto;
+    overflow-x: hidden;
+    transform: rotate(-90deg) translateY(-80px);
+    transform-origin: right top;
+}
+.horizontal-scroll-wrapper > div{
+  display:block;
+  padding:5px;
+  background: grey;
+  transform:rotate(90deg);
+  transform-origin: right top;
+}
+
+.horizontal-scroll-wrapper1{
+    position: relative;
+    display: block;
+    top: -365px;
+    left: 1%;
+    width: 430px;
+    min-height: 1166px;
+    max-height: 1167px;
+    margin: 0;
+    background: grey;
+    overflow-y: auto;
+    overflow-x: hidden;
+    transform: rotate(-90deg) translateY(-80px);
+    transform-origin: right top;
+}
+.horizontal-scroll-wrapper1 > div{
+  display:block;
+  padding:-11px;
+  background: grey;
+  transform:rotate(90deg);
+  transform-origin: right top;
+}
+
+.squares1{
+    padding: 16.9% 3px 0 0;
+}
+
+.squares1 > div{
+  width:371px;
+  height:566px;
+  margin:10px;
+}
+.squares{
+    padding: 19.9% 3px 0 0;
+}
+
+.squares > div{
+  width:371px;
+  height:566px;
+  margin:10px;
+}
+
+.rectangles{
+  top:100px;
+  padding:100px 0 0 0;
+}
+.rectangles > div{
+  width:140px;
+  height:60px;
+  margin:50px 10px;
+  padding:5px;
+  background:grey ;
+  transform:rotate(90deg) translateY(80px);
+  transform-origin: right top;
+}
+#form {
+   
+    display: inline;
+    margin-left: 0%;
+    top: 10%;
+    left: 10%
+
+}
+#formContainer{
+    margin-left: 2.5%;
+    display: inline-block;
+    border: 5px solid black;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 1%;
+    margin-top: 11%
+
+}
+#form1{
+
+}
+#formSelect {
+    margin-left: 0%;
+
+}
+
+
+
+/* arms */
+#arm{
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    width: 40px;
+    /* offset-rotate: auto; */
+    position: relative;
+    left: 37.5%;
+    top: 327.6px;
+    height: 129px;
+    text-align: center;
+    transform: rotate(-10deg) translateY(4px);
+    transform-origin: right top;
+
+}
+ #arm2{
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    width: 37.5px;
+    /* offset-rotate: auto; */
+    position: relative;
+    left: 53.2%;
+    top: 333.3px;
+    height: 129px;
+    text-align: center;
+    transform: rotate(9deg) translateY(4px);
+    transform-origin: right top;
+}
+  #arm3{
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    width: 37.5px;
+    /* offset-rotate: auto; */
+    position: relative;
+    left: 74.9%;
+    top: 330.3px;
+    height: 129px;
+    text-align: center;
+    transform: rotate(-10deg) translateY(4px);
+    transform-origin: right top;
+}
+#arm4{
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    width: 37.5px;
+    /* offset-rotate: auto; */
+    position: relative;
+    left: -2.3%;
+    top: 340px;
+    height: 129px;
+    text-align: center;
+    transform: rotate(10.2deg) translateY(4px);
+    transform-origin: right top;
+}
+
+
+/* upper arms */
+#upper-arm {
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    width: 40px;
+    position: relative;
+    left: 64.6%;
+    top: 204px;
+    height: 108px;
+    text-align: center;
+    transform: rotate(-8deg) translateY(4px);
+    transform-origin: right top;
+}
+#upper-arm2 {
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    width: 40px;
+    /* offset-rotate: auto; */
+    position: relative;
+    left: 36%;
+    top: 197px;
+    height: 108px;
+    text-align: center;
+    transform: rotate(5deg) translateY(4px);
+    transform-origin: right top;
+}
+#upper-arm3 {
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    width: 40px;
+    /* offset-rotate: auto; */
+    position: relative;
+    left: 8.7%;
+    top: 195px;
+    height: 108px;
+    text-align: center;
+    transform: rotate(-7deg) translateY(4px);
+    transform-origin: right top;
+}
+#upper-arm4 {
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    width: 40px;
+    /* offset-rotate: auto; */
+    position: relative;
+    left: -20.2%;
+    top: 202px;
+    height: 108px;
+    text-align: center;
+    transform: rotate(2deg) translateY(4px);
+    transform-origin: right top;
+}
+/* shoulder-front */
+#shoulder-front {
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    width: 37px;
+    /* offset-rotate: auto; */
+    position: relative;
+    left: 30.7%;
+    top: 150px;
+    height: 113px;
+    text-align: center;
+    transform: rotate(64deg) translateY(4px);
+    transform-origin: right top;
+}
+#shoulder-front2 {
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    width: 37px;
+    /* offset-rotate: auto; */
+    position: relative;
+    left: 30.7%;
+    top: 114.3px;
+    height: 113px;
+    text-align: center;
+    transform: rotate(-64deg) translateY(4px);
+    transform-origin: right top;
+}
+/* shoulder-back */
+#shoulder-back {
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    width: 36px;
+    /* offset-rotate: auto; */
+    position: relative;
+    left: -24%;
+    top: 148px;
+    height: 113px;
+    text-align: center;
+    transform: rotate(62deg) translateY(4px);
+    transform-origin: right top;
+}
+#shoulder-back2 {
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    width: 36px;
+    /* offset-rotate: auto; */
+    position: relative;
+    left: -24.2%;
+    top: 118px;
+    height: 113px;
+    text-align: center;
+    transform: rotate(-62deg) translateY(4px);
+    transform-origin: right top;
+}
+/* neck-front */
+#neck-front {
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    width: 53px;
+    /* offset-rotate: auto; */
+    position: relative;
+    left: 15.8%;
+    top: 12px;
+    height: 26px;
+    text-align: center;
+    transform: rotate(1deg) translateY(4px);
+    transform-origin: right top;
+}
+/* neck-back */
+#neck-back {
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    width: 62px;
+    /* offset-rotate: auto; */
+    position: relative;
+    left: -37.2%;
+    top: 1px;
+    height: 32px;
+    text-align: center;
+    transform: rotate(0deg) translateY(4px);
+    transform-origin: right top;
+}
+
+/* back */
+#back {
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    width: 159px;
+    /* offset-rotate: auto; */
+    position: relative;
+    left: -49.4%;
+    top: 317px;
+    height: 247px;
+    text-align: center;
+    transform: rotate(1deg) translateY(4px);
+    transform-origin: right top;
+}
+/* chest */
+#chest {
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    width: 46px;
+    /* offset-rotate: auto; */
+    position: relative;
+    left: -8.4%;
+    top: 221px;
+    height: 86px;
+    text-align: center;
+    transform: rotate(112deg) translateY(4px);
+    transform-origin: right top;
+}
+#chest2 {
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    width: 46px;
+    /* offset-rotate: auto; */
+    position: relative;
+    left: -22.5%;
+    top: 187px;
+    height: 78px;
+    text-align: center;
+    transform: rotate(73deg) translateY(4px);
+    transform-origin: right top;
+}
+/* abdominals */
+#abdominals {
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    width: 39px;
+    /* offset-rotate: auto; */
+    position: relative;
+    left: -18.6%;
+    top: 302px;
+    height: 87px;
+    text-align: center;
+    transform: rotate(15deg) translateY(4px);
+    transform-origin: right top;
+}
+#abdominals2 {
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    width: 39px;
+    /* offset-rotate: auto; */
+    position: relative;
+    left: 64.6%;
+    top: 167px;
+    height: 87px;
+    text-align: center;
+    transform: rotate(-17deg) translateY(4px);
+    transform-origin: right top;
+}
+/* groin */
+#groin {
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    width: 54px;
+    /* offset-rotate: auto; */
+    position: relative;
+    left: 65.6%;
+    top: 206px;
+    height: 33px;
+    text-align: center;
+    transform: rotate(0deg) translateY(4px);
+    transform-origin: right top;
+}
+
+/* glutes */
+#glutes {
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    width: 55px;
+    /* offset-rotate: auto; */
+    position: relative;
+    left: 8.5%;
+    top: 258px;
+    height: 62px;
+    text-align: center;
+    transform: rotate(0deg) translateY(4px);
+    transform-origin: right top;
+}
+#glutes2 {
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    width: 55px;
+    /* offset-rotate: auto; */
+    position: relative;
+    left: 10.9%;
+    top: 258px;
+    height: 62px;
+    text-align: center;
+    transform: rotate(0deg) translateY(4px);
+    transform-origin: right top;
+}
+/* hips */
+#hip {
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    width: 50px;
+    /* offset-rotate: auto; */
+    position: relative;
+    left: 50.8%;
+    top: 192px;
+    height: 28px;
+    text-align: center;
+    transform: rotate(-54deg) translateY(4px);
+    transform-origin: right top;
+}
+#hip2 {
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    width: 50px;
+    /* offset-rotate: auto; */
+    position: relative;
+    left: 34.8%;
+    top: 224px;
+    height: 28px;
+    text-align: center;
+    transform: rotate(54deg) translateY(4px);
+    transform-origin: right top;
+}
+
+/* thighs */
+#thigh {
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    width: 64px;
+    /* offset-rotate: auto; */
+    position: relative;
+    left: 39.8%;
+    top: 343px;
+    height: 122px;
+    text-align: center;
+    transform: rotate(3deg) translateY(4px);
+    transform-origin: right top;
+}
+#thigh2 {
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    width: 64px;
+    /* offset-rotate: auto; */
+    position: relative;
+    left: 22%;
+    top: 343px;
+    height: 122px;
+    text-align: center;
+    transform: rotate(-3deg) translateY(4px);
+    transform-origin: right top;
+}
+/* hamstring */
+#hamstring {
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    width: 54px;
+    /* offset-rotate: auto; */
+    position: relative;
+    left: -21.3%;
+    top: 408px;
+    height: 130px;
+    text-align: center;
+    transform: rotate(6deg) translateY(4px);
+    transform-origin: right top;
+}
+#hamstring2 {
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    width: 54px;
+    /* offset-rotate: auto; */
+    position: relative;
+    left: -36.7%;
+    top: 404px;
+    height: 130px;
+    text-align: center;
+    transform: rotate(-6deg) translateY(4px);
+    transform-origin: right top;
+}
+/* knees */
+#knee {
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    width: 49px;
+    /* offset-rotate: auto; */
+    position: relative;
+    left: 11.9%;
+    top: 464.8px;
+    height: 49px;
+    text-align: center;
+    transform: rotate(0deg) translateY(4px);
+    transform-origin: right top;
+}
+#knee2 {
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    width: 49px;
+    /* offset-rotate: auto; */
+    position: relative;
+    left: -0.9%;
+    top: 464.8px;
+    height: 50px;
+    text-align: center;
+    transform: rotate(2deg) translateY(4px);
+    transform-origin: right top;
+}
+/* calf  */
+#calf {
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    width: 46px;
+    /* offset-rotate: auto; */
+    position: relative;
+    left: -45.5%;
+    top: 592px;
+    height: 127px;
+    text-align: center;
+    transform: rotate(2deg) translateY(4px);
+    transform-origin: right top;
+}
+#calf2 {
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    width: 46px;
+    /* offset-rotate: auto; */
+    position: relative;
+    left: -58.4%;
+    top: 590px;
+    height: 127px;
+    text-align: center;
+    transform: rotate(-2deg) translateY(4px);
+    transform-origin: right top;
+}
+/* shin */
+#shin {
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    width: 47px;
+    /* offset-rotate: auto; */
+    position: relative;
+    left: -9.8%;
+    top: 602px;
+    height: 129px;
+    text-align: center;
+    transform: rotate(2deg) translateY(4px);
+    transform-origin: right top;
+}
+#shin2 {
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    width: 47px;
+    /* offset-rotate: auto; */
+    position: relative;
+    left: -22.8%;
+    top: 602px;
+    height: 129px;
+    text-align: center;
+    transform: rotate(-2deg) translateY(4px);
+    transform-origin: right top;
+}
+/* feet */
+#foot {
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    width: 44px;
+    /* offset-rotate: auto; */
+    position: relative;
+    left: -21.8%;
+    top: 680px;
+    height: 61px;
+    text-align: center;
+    transform: rotate(2deg) translateY(4px);
+    transform-origin: right top;
+}
+#foot2 {
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    width: 44px;
+    /* offset-rotate: auto; */
+    position: relative;
+    left: 68.2%;
+    top: 618px;
+    height: 61px;
+    text-align: center;
+    transform: rotate(2deg) translateY(4px);
+    transform-origin: right top;
+}
+#foot3 {
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    width: 44px;
+    /* offset-rotate: auto; */
+    position: relative;
+    left: 22.2%;
+    top: 617px;
+    height: 61px;
+    text-align: center;
+    transform: rotate(2deg) translateY(4px);
+    transform-origin: right top;
+}
+#foot4 {
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    width: 44px;
+    /* offset-rotate: auto; */
+    position: relative;
+    left: 11.3%;
+    top: 618px;
+    height: 61px;
+    text-align: center;
+    transform: rotate(2deg) translateY(4px);
+    transform-origin: right top;
+}
